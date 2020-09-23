@@ -1,4 +1,6 @@
 # Coffe Jean Code ☕👖💻
+![Profile views](https://gpvc.arturio.dev/CoffeJeanCode) 
+
 <!-- Skill -->
 
 <!-- Image -->
