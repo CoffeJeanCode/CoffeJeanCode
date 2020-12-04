@@ -1,4 +1,9 @@
-# Coffe Jean Code ☕👖💻
+<h1 align="center"> Coffe Jean Code ☕👖💻 </h1>
+
+<!-- Banner -->
+<p align="center">
+<img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300px" height="300px" alt="banner" />
+</p>
 
 <!-- Skill -->
 
@@ -13,8 +18,10 @@
    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
    <img src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
+   <img src="https://symbols.getvecta.com/stencil_81/10_gatsbyjs-icon.6dcf1e65b8.svg" alt="gatsbyjs" width="40" height="40"/>
    <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
    <img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
+   <img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
    <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
    <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -32,10 +39,3 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=CoffeJeanCode)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeJeanCode&layout=compact)
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/CoffeJeanCode/count.svg" />
-</p>
-
-<!-- Presentation -->
