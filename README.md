@@ -40,5 +40,5 @@
 <!-- Stats -->
 
 ## Stats
-<a href="https://github-readme-stats.vercel.app/api?username=CoffeJeanCode)](https://github.com/anuraghazra/github-readme-stats"></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeJeanCode&layout=compact"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=CoffeJeanCode"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeJeanCode&layout=compact"></img>
