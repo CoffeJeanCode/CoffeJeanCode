@@ -40,6 +40,5 @@
 <!-- Stats -->
 
 ## Stats
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=CoffeJeanCode)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeJeanCode&layout=compact)
+<a href="https://github-readme-stats.vercel.app/api?username=CoffeJeanCode)](https://github.com/anuraghazra/github-readme-stats"></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeJeanCode&layout=compact"></a>
