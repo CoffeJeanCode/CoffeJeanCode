@@ -8,10 +8,8 @@
    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100px" height="100px" alt="node" />
 </p>
 
-<!-- Image -->
-
 <!-- Stats -->
-
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=CoffeJeanCode"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeJeanCode&layout=compact"></img>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeJeanCode" height="100%"></img>
+</p>
