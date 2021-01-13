@@ -1,5 +1,4 @@
 <h1 align="center"> Coffe Jean Code ☕👖💻 </h1>
-<h2 align="center">I am a self-taught Frontend developer specialized in the JavaScript ecosystem, currently working at Stackly Code, a software creation company, fascinated by learning and creating new technologies</h2>
 
 <!-- Banner -->
 <p align="center">
