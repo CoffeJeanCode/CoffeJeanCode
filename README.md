@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CoffeJeanCode ☕👖💻</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate frontend developer specialized in the JavaScript ecosystem, fascinated by learning</h3>
 
 <p align="center">
    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100px" height="100px" alt="react" />
