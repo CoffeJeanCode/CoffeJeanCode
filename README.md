@@ -8,7 +8,7 @@
    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100px" height="100px" alt="node" />
 </p>
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **RXJS**
 
 - 📝 I regularly write articles on [https://coffeblog.vercel.app](https://coffeblog.vercel.app)
 
