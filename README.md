@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **RXJS**
 
-- 📝 I regularly write articles on [https://coffeblog.vercel.app](https://coffeblog.vercel.app)
+- 📝 I regularly write articles on [https://coffejeancode.vercel.app](https://coffeblog.vercel.app)
 
 - 💬 Ask me about **ReactJs and JavaScript**
 
