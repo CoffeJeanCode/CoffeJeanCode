@@ -8,13 +8,11 @@
    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100px" height="100px" alt="node" />
 </p>
 
-- 🌱 I’m currently learning **RXJS**
+- 🌱 I’m currently learning **React Native**
 
-- 📝 I regularly write articles on [https://coffejeancode.vercel.app](https://coffeblog.vercel.app)
+- 📝 I regularly write articles on [https://coffejeancode.vercel.app](https://coffejeancode.vercel.app)
 
 - 💬 Ask me about **ReactJs and JavaScript**
-
-- 📫 How to reach me **coffejeancode.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
