@@ -29,4 +29,5 @@
    <br/>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=coffejeancode&show_icons=true&locale=en&theme=catppuccin_mocha&hide_border=true&card_width=600px" alt="coffejeancode" width="600px"/>
    <br/>
+   <img src="https://streak-stats.demolab.com?user=CoffeJeanCode&theme=catppuccin-mocha&hide_border=true&card_width=600" alt="GitHub Streak" />
 </p>
